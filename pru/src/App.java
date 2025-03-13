@@ -7,7 +7,7 @@ public class App {
         int a =s.nextInt();
         int b =s.nextInt();
         
-        System.out.println("Sum of a and b is: " + (a + b));
+        System.out.println("Suma En españo colkjeunams: " + (a + b));
 
     }
 }
